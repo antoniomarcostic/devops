@@ -1,0 +1,4 @@
+sudo docker container run -d -p 8080:8080 conversao-temperatura
+3dcd160927720e5fec49bccb40ef1c0400e5ae9a46fd72f87dd9bd4ca098b6e3
+docker container ls
+3dcd16092772   conversao-temperatura   "docker-entrypoint.s…"   17 minutes ago   Up 17 minutes   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   inspiring_driscoll
